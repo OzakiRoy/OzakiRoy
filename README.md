@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning about Security with picoCTF
+- 🌱 I’m currently learning about Cyber Security with picoCTF
 
 ---
 
